@@ -117,5 +117,5 @@ The Git repository is the canonical source of truth.
 
 ## Change Log
 
-- YYYY-MM-DD — Revised to clarify relationship to Age of Darkness
-- YYYY-MM-DD — Initial draft
+- 2026-01-13 — Revised to clarify relationship to Age of Darkness
+- 2026-01-13 — Initial draft
