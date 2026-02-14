@@ -35,3 +35,43 @@ There is no wound pooling.
 
 ## Repository Structure
 
+docs/
+00-intro/
+10-core-rules/
+20-weapons-and-gear/
+30-campaign/
+
+- **00-intro/** — Design framing and usage guidance  
+- **10-core-rules/** — All in-battle mechanics  
+- **20-weapons-and-gear/** — Weapon and armour interpretation  
+- **30-campaign/** — Post-battle systems, injuries, salvage, recruitment, progression  
+
+---
+
+## Authority
+
+This Git repository is the single source of truth.
+
+If a rule is not present in this repository, it is not active.
+
+Campaign mechanics never override Core Rules unless explicitly stated.
+
+Mission rules override Core Rules only where explicitly written.
+
+---
+
+## Status
+
+SHATTERED is under active development and playtesting.
+
+All files are marked:
+
+`Draft - Not edited`
+
+Rules may change as testing continues.
+
+---
+
+## Change Log
+
+- 2026-02-13 — Initial draft
