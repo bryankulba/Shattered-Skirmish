@@ -1,7 +1,7 @@
 ---
 title: Core Rules Overview
 section: Core Rules
-status: Draft - Not edited
+status: Draft
 date: 2026-02-13
 ---
 
@@ -36,10 +36,10 @@ SHATTERED is a **Mordheim-first** system.
 
 ## Activation Model
 
-SHATTERED uses independent, alternating model activation.
+SHATTERED uses traditional IGOUGO activation.
 
-- Players alternate activating one model at a time.
-- An activated model completes its movement and actions before control passes.
+- Players alternate activating their entire warband.
+- A player's models completes their movement and actions before control passes.
 - There are no interrupt mechanics.
 - All effects resolve immediately unless explicitly stated otherwise.
 - There are no units and no coherency requirements.
@@ -90,7 +90,3 @@ Core Rules govern all in-battle resolution.
 - If a rule is not modified by a mission or campaign mechanic, the Core Rules apply as written.
 
 ---
-
-## Change Log
-
-- 2026-02-13 — Initial draft

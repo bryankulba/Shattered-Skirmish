@@ -1,7 +1,7 @@
 ---
 title: Shooting
 section: Core Rules
-status: Draft - Not edited
+status: Draft
 date: 2026-02-13
 ---
 
@@ -67,8 +67,15 @@ Injury resolution is defined in:
 ---
 
 ## 5. Ammunition & Scarcity
+In SHATTERED, ammunition is limited, so every shot matters and running out can cost you the fight. All ranged and special weapons are subject to limited amounts of ammunition each game.
 
-At the start of the battle, roll **1D6 per ranged weapon** to determine ammunition availability.
+Weapons with a Firepower (FP) characteristic greater than 2 still count as a single shot.
+
+Bolt Pistols are **not** subject to ammunition scarcity.
+
+### 5.1 Ranged Weapon (Boltguns) Ammunition
+
+At the start of the battle, roll **1D6 per ranged weapon (Boltguns)** to determine ammunition availability.
 
 The result applies for the duration of that battle only.
 
@@ -78,9 +85,19 @@ The result applies for the duration of that battle only.
 | 2–5 | The weapon may fire that many times during the battle. |
 | 6 | Unlimited shots for the battle. |
 
-Weapons with a Firepower (FP) characteristic greater than 2 still count as a single shot.
+### 5.2 Special Weapon Ammunition
 
-Bolt Pistols are **not** subject to ammunition scarcity.
+At the start of the battle, roll **1D3 per ranged weapon** to determine ammunition availability.
+
+The result applies for the duration of that battle only.
+
+| D6 | Result |
+|----|--------|
+| 1 | One shot during the battle. |
+| 2 | Two shots during the battle. |
+| 3 | Three shots during the battle. |
+
+
 
 ---
 
@@ -111,7 +128,3 @@ Destroyed weapons may not be used again during the battle.
 Persistent damage effects are resolved in the Campaign Rules.
 
 ---
-
-## Change Log
-
-- 2026-02-13 — Initial draft

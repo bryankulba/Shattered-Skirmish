@@ -1,7 +1,7 @@
 ---
 title: Design Principles
 section: Introduction
-status: Draft - Not edited
+status: Draft
 ---
 
 # Design Principles
@@ -150,9 +150,3 @@ Playtest feedback may inform changes.
 The canonical rulebook repository defines the active ruleset.
 
 ---
-
-## Change Log
-
-- YYYY-MM-DD — Refined structural hierarchy and removed duplicated AoD framing
-- YYYY-MM-DD — Initial draft
-Í

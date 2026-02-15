@@ -1,7 +1,7 @@
 ---
 title: Leadership & Morale
 section: Core Rules
-status: Draft - Not edited
+status: Draft
 date: 2026-02-13
 ---
 
@@ -64,7 +64,3 @@ There is no additional Break Test mechanic beyond the Rout system.
 If a warband is reduced to zero Operational models, the battle ends immediately.
 
 ---
-
-## Change Log
-
-- 2026-02-13 — Initial draft

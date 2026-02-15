@@ -1,7 +1,7 @@
 ---
 title: Movement
 section: Core Rules
-status: Draft - Not edited
+status: Draft
 date: 2026-02-13
 ---
 
@@ -82,7 +82,3 @@ Pre-measuring is permitted.
 All measurements must be declared clearly before repositioning the model.
 
 ---
-
-## Change Log
-
-- 2026-02-13 — Initial draft

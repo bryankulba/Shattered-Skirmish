@@ -1,7 +1,7 @@
 ---
 title: Terrain & Verticality
 section: Core Rules
-status: Draft - Not edited
+status: Draft
 date: 2026-02-13
 ---
 
@@ -101,7 +101,3 @@ Models positioned at higher elevation:
 There are no abstract elevation modifiers beyond those defined above.
 
 ---
-
-## Change Log
-
-- 2026-02-13 — Initial draft

@@ -1,7 +1,7 @@
 ---
 title: Sequence of Play
 section: Core Rules
-status: Draft - Not edited
+status: Draft
 date: 2026-02-13
 ---
 
@@ -25,11 +25,11 @@ Each turn follows the Mordheim sequence:
 4. Close Combat Phase  
 5. Rout Phase  
 
-Players alternate activating one model at a time during each phase.
+Players alternate activating their warband at a time during each phase.
 
 - There are no reactions.
 - There are no interrupt mechanics.
-- An activated model completes all permitted actions before control passes to the opponent.
+- An activated warband completes all permitted actions before control passes to the opponent.
 - All effects resolve immediately unless explicitly stated otherwise.
 
 ---
@@ -105,7 +105,3 @@ A battle ends when:
 Post-battle procedures are resolved in the Campaign Rules.
 
 ---
-
-## Change Log
-
-- 2026-02-13 — Initial draft

@@ -1,7 +1,7 @@
 ---
 title: Melee
 section: Core Rules
-status: Draft - Not edited
+status: Draft
 date: 2026-02-13
 ---
 
@@ -31,7 +31,7 @@ A model is **Engaged** when it is in base contact with one or more enemy models.
 To Charge:
 
 - The model declares a Charge.
-- The model moves up to **Movement + D6"**.
+- The model moves up to **Movement + Initiative"**.
 - The model must attempt to reach base contact with the declared target.
 
 If the model cannot reach base contact, the Charge fails and the model stops at the furthest legal point along its path.
@@ -110,7 +110,3 @@ When a model breaks from combat:
 There is no separate Break Test mechanic beyond Rout Tests.
 
 ---
-
-## Change Log
-
-- 2026-02-13 — Initial draft

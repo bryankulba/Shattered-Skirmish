@@ -1,7 +1,7 @@
 ---
 title: What Is SHATTERED?
 section: Introduction
-status: Draft - Not edited
+status: Draft
 ---
 
 # What Is SHATTERED?
@@ -12,7 +12,7 @@ It focuses on isolated groups of Space Marines operating after catastrophic enga
 
 This is not a simulation of Legion warfare.
 
-It is a game about fractured units, hard commitments, and irreversible consequences.
+It is a game about fractured units, hard commitments, irreversible consequences and despair.
 
 ---
 
@@ -114,8 +114,3 @@ Mechanics may be removed or refined.
 The Git repository is the canonical source of truth.
 
 ---
-
-## Change Log
-
-- YYYY-MM-DD — Revised to clarify relationship to Age of Darkness
-- YYYY-MM-DD — Initial draft
