@@ -11,7 +11,7 @@ The Close Combat Phase resolves all fighting between Engaged models.
 
 Combat follows Mordheim structure and sequencing.
 
-There are no Challenges.
+There are no Challenges.  
 There are no Reactions.
 
 ---
@@ -44,6 +44,49 @@ A model that successfully Charges:
 All models that successfully charge the same enemy count as charging and gain charging benefits.
 
 A model may not Charge if it began its activation Engaged.
+
+---
+
+### Boarding Shield – Shield Bash
+
+A model equipped with a **Boarding Shield** may attempt a **Shield Bash** when declaring a Charge.
+
+If, during a successful Charge, the charging model would reach base contact with more than 2" of charge distance remaining, it may declare a Shield Bash before resolving combat.
+
+The Shield Bash is resolved immediately upon reaching base contact.
+
+#### Shield Bash Procedure
+
+1. Both players roll 1D6.
+2. Compare results.
+
+##### If the Charging Model Wins
+
+The charging model may push the target model directly away up to 2".
+
+- The pushed model must move in a straight line directly away from the charger.
+- If this movement forces the model off a ledge or elevated surface, the model immediately falls.
+  - Resolve falling distance and injury as normal.
+- If no fall occurs, the target model is Knocked Down.
+
+The charging model then moves into base contact as normal.
+
+The charge counts as successful and the charger retains charging benefits.
+
+##### If the Charging Model Loses or Ties
+
+The Shield Bash fails.
+
+- The charging model does not gain charging strike priority.
+- The defender strikes first in the first round of combat.
+- The charge otherwise proceeds normally.
+
+#### Restrictions
+
+- Shield Bash may only be attempted once per Charge.
+- Shield Bash may not be used if the charging model began its activation Engaged.
+- Shield Bash does not replace normal attacks.
+- This rule only applies to models equipped with a Boarding Shield.
 
 ---
 
