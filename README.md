@@ -1,6 +1,6 @@
 ---
 title: SHATTERED Rulebook
-status: Draft - Not edited
+status: Draft
 date: 2026-02-13
 ---
 
@@ -44,7 +44,8 @@ docs/
 - **00-intro/** — Design framing and usage guidance  
 - **10-core-rules/** — All in-battle mechanics  
 - **20-weapons-and-gear/** — Weapon and armour interpretation  
-- **30-campaign/** — Post-battle systems, injuries, salvage, recruitment, progression  
+- **30-warband-building** - How to build a warband for Shattered
+<!-- - **40-campaign/ UNFIINISHED** — Post-battle systems, injuries, salvage, recruitment, progression   -->
 
 ---
 
@@ -66,7 +67,7 @@ SHATTERED is under active development and playtesting.
 
 All files are marked:
 
-`Draft - Not edited`
+`Draft`
 
 Rules may change as testing continues.
 
@@ -74,4 +75,4 @@ Rules may change as testing continues.
 
 ## Change Log
 
-- 2026-02-13 — Initial draft
+- 2026-02-13 — Initial uploads of draft rules
