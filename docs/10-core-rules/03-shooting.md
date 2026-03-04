@@ -46,6 +46,14 @@ The following modifiers apply:
 
 Modifiers stack unless explicitly stated otherwise.
 
+### Cover Modifiers
+
+Cover represents terrain or obstacles that partially obscure a target from incoming fire. If a target is partially hidden by terrain, the shooter suffers a –1 penalty to hit (soft cover). If the target is mostly hidden behind solid terrain, the penalty is –2 to hit (hard cover).
+
+If a shot passes within 1" of another model, the target counts as being in soft cover (–1 to hit).
+
+A model that cannot be seen at all cannot be targeted.
+
 ---
 
 ## 4. Resolving a Shot
