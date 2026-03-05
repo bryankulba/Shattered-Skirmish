@@ -48,10 +48,10 @@ nav:
   #   - Mission Framework: 50-missions/00-mission-framework.md
   #   - Mission Pack 1: 50-missions/01-mission-pack-1.md
   #   - Random Scenarios: 50-missions/99-random-scenarios.md
-  # - Reference:
+  - Reference:
   #   - FAQ: 90-reference/faq.md
   #   - Glossary: 90-reference/glossary.md
-  #   - Quick Reference Sheet: 90-reference/quick-reference-sheet.md
+    - Quick Reference Sheet: 90-reference/quick-reference-sheet.md
   - Appendix:
     - Credits: 99-appendix/credits.md
     # - Design Notes: 99-appendix/design-notes.md
