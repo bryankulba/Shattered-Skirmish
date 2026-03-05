@@ -14,9 +14,9 @@ Special Rules associated with weapons as per AOD 3.0 rules are assummed to not b
 Breaching(X) lowers the die result required to score a Critical Hit. Critical Hits bypass the armour save. Normally, a Critical Hit is scored on a natural roll of 6 when rolling to wound. If a weapon has Breaching(X), a Critical Hit is instead scored on a natural roll of X or higher.
 
 Examples:
-Breaching (6) – Critical Hit on 5 or 6 
-Breaching (5+) – Critical Hit on 4, 5, or 6 
-Breaching (4+) – Critical Hit on 3, 4, 5, or 6
+- Breaching (6) – Critical Hit on 5 or 6  
+- Breaching (5+) – Critical Hit on 4, 5, or 6  
+- Breaching (4+) – Critical Hit on 3, 4, 5, or 6  
 
 ---
 
