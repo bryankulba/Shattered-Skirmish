@@ -1,0 +1,57 @@
+site_name: SHATTERED
+site_description: A Mordheim-first narrative skirmish game set during the Horus Heresy.
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep orange
+    accent: orange
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Introduction:
+    - Design Principles: 00-intro/01-design-principles.md
+    # - How to Use This Rulebook: 00-intro/02-how-to-use-this-rulebook.md
+  - Core Rules:
+    - Overview: 10-core-rules/00-overview.md
+    - Sequence of Play: 10-core-rules/01-sequence-of-play.md
+    - Movement: 10-core-rules/02-movement.md
+    - Shooting: 10-core-rules/03-shooting.md
+    - Melee: 10-core-rules/04-melee.md
+    - Leadership & Morale: 10-core-rules/05-leadership-morale.md
+    - Terrain & Verticality: 10-core-rules/06-terrain-verticality.md
+  - Weapons & Gear:
+    - Overview: 20-weapons-and-gear/00-overview.md
+    - Ranged Weapons: 20-weapons-and-gear/01-ranged-weapons.md
+    - Melee Weapons: 20-weapons-and-gear/02-melee-weapons.md
+    - Armour: 20-weapons-and-gear/03-armour.md
+    - Special Rules: 20-weapons-and-gear/04-special-rules.md
+  - Warband Building:
+    - Overview: 30-warband-building/00-overview.md
+    - Warband Creation: 30-warband-building/01-warband-creation.md
+  - Campaign:
+    - Overview: 40-campaign/00-overview.md
+    - Post-Battle Sequence: 40-campaign/01-post-battle-sequence.md
+    - Injuries: 40-campaign/02-injuries.md
+    - Exploration: 40-campaign/03-exploration.md
+    - Salvage & Requisition: 40-campaign/04-salvage-and-requisition.md
+    - Recruitment: 40-campaign/05-recruitment.md
+    - Advancement: 40-campaign/06-advancement.md
+  # - Missions:
+  #   - Mission Framework: 50-missions/00-mission-framework.md
+  #   - Mission Pack 1: 50-missions/01-mission-pack-1.md
+  #   - Random Scenarios: 50-missions/99-random-scenarios.md
+  # - Reference:
+  #   - FAQ: 90-reference/faq.md
+  #   - Glossary: 90-reference/glossary.md
+  #   - Quick Reference Sheet: 90-reference/quick-reference-sheet.md
+  - Appendix:
+    - Credits: 99-appendix/credits.md
+    # - Design Notes: 99-appendix/design-notes.md

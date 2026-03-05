@@ -6,6 +6,40 @@ date: 2026-02-13
 
 # SHATTERED
 
+## Local Development
+
+This rulebook is built with [MkDocs](https://www.mkdocs.org/) using the [Material theme](https://squidfunk.github.io/mkdocs-material/).
+
+**Install dependencies:**
+```bash
+pip3 install -r requirements.txt
+```
+
+**Run the local dev server:**
+```bash
+mkdocs serve
+```
+Then open [http://localhost:8000](http://localhost:8000).
+
+**Build static site:**
+```bash
+mkdocs build
+```
+Output goes to `site/`.
+
+**Deploy to GitHub Pages:**
+```bash
+mkdocs gh-deploy
+```
+Or just push to `main` — the GitHub Actions workflow in `.github/workflows/deploy.yml` deploys automatically.
+
+> **Note:** If `mkdocs` is not found, add Python's user bin to your PATH:
+> ```bash
+> export PATH="$HOME/Library/Python/3.9/bin:$PATH"
+> ```
+
+---
+
 SHATTERED is a Mordheim-first narrative skirmish game set during the Horus Heresy.
 
 It focuses on isolated groups of Space Marines operating after catastrophic engagements — cut off from command, low on ammunition, and fighting without reinforcement.
