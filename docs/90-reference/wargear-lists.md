@@ -16,8 +16,6 @@ status: Draft
 |---|---|
 | Bolt pistol | Free |
 | Chainsword | Free |
-| Disintegrator pistol | Free |
-| Thunder hammer | Free |
 | Combat shield | Free |
 | Bolter | +5 Points |
 | Volkite serpenta | +5 Points |
