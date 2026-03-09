@@ -1,7 +1,7 @@
 ---
 title: Melee Weapon Profiles
-status: Scratchpad
-note: Stat lines transcribed from Age of Darkness. Includes only weapons eligible under current Officer and Sergeant wargear lists. Verify all values against source.
+section: Reference
+status: draft
 ---
 
 # Melee Weapon Profiles
