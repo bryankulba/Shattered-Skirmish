@@ -2,7 +2,7 @@
 title: Wargear Lists
 section: Reference
 status: Draft
-note: Transcribed from Age of Darkness Army List. Verify all point values against source before use.
+note: Transcribed from Age of Darkness Army List. Verify all point values against source before use. 
 ---
 
 # Wargear Lists
