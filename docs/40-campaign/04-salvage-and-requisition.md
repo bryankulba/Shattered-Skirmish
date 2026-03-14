@@ -26,7 +26,7 @@ RP is used to:
 - Pay upgrade costs
 - Pay Recruitment Opportunity costs
 
-RP gained during Step 4 (Resource Conversion) may not be spent during the same Post-Battle Sequence.
+RP gained during Step 4 (Resource Conversion) may be spent during the same Post-Battle Sequence.
 
 RP gained during Exploration may be spent during Step 7 (Recruitment), unless explicitly restricted.
 

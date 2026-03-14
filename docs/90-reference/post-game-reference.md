@@ -149,9 +149,9 @@ Recruits begin with 0 XP. Must follow all Warband Creation equipment restriction
 | 3 | **Armour Scarred** — Begins with *Armour Compromised*. |
 | 4 | **Weaponless Arrival** — Begins with *No Weaponry*. Must be re-equipped with Salvage. |
 | 5 | **Shaken Survivor** — –1 Leadership next battle only. |
-| 6 | **Line Legionary** — No additional effects. |
-| 7 | **Recovered Brother** — No additional effects. |
-| 8 | **Disciplined Fighter** — +1 XP immediately. |
+| 6 | **Knows the Terrain** — Once per battle, may re-roll a failed Initiative test for climbing or jumping. |
+| 7 | **Hardened by Isolation** — Immune to the first Knocked Down result each battle. |
+| 8 | **Bond of Blood** — Refund half of this model's RP recruitment cost immediately. |
 | 9 | **Proven Under Fire** — +1 XP. |
 | 10 | **Recovered Wargear** — 1 Salvage. |
 | 11 | **Veteran of Attrition** — +2 XP. |
@@ -162,16 +162,16 @@ Recruits begin with 0 XP. Must follow all Warband Creation equipment restriction
 | 2D6 | Result |
 |---|---|
 | 2 | **Open Hostility** — –1 Ld permanently. Warband must re-roll first successful Rout test each battle while this model is operational. |
-| 3 | **Distrusted** — Cannot benefit from Ld re-rolls from Veteran Sergeant. |
-| 4 | **Tense Alliance** — Narrative only. |
+| 3 | **Distrusted** — Must activate before any other friendly model each turn. |
+| 4 | **Tense Alliance** — May not secure Resource Caches. |
 | 5 | **Uneasy Cohesion** — –1 Ld first battle only. |
 | 6 | **Conditional Loyalty** — No additional effect. |
 | 7 | **Accepted into the Line** — No additional effect. |
 | 8 | **Earned Respect** — +1 XP immediately. |
 | 9 | **Trusted Brother** — Warband may re-roll one failed Rout test per campaign while this model is operational. |
 | 10 | **Shared Oath** — Recruit and one Hero both gain +1 XP. |
-| 11 | **Battle-Bound** — +1 Ld while within 6" of the Veteran Sergeant. |
-| 12 | **Oath-Sworn to the Shattered** — Ignores the first failed Rout test each battle. |
+| 11 | **Battle-Bound** — While within 12" of the model making a Rout Test, that model gains +1 Ld for that test. |
+| 12 | **Oath-Sworn to the Shattered** — +1 Leadership permanently. The warband may re-roll its first failed Rout test each battle while this model is operational. |
 
 ---
 
