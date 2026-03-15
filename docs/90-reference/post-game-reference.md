@@ -164,12 +164,12 @@ Recruits begin with 0 XP. Must follow all Warband Creation equipment restriction
 | 2 | **Open Hostility** — –1 Ld permanently. Warband must re-roll first successful Rout test each battle while this model is operational. |
 | 3 | **Distrusted** — Must activate before any other friendly model each turn. |
 | 4 | **Tense Alliance** — May not secure Resource Caches. |
-| 5 | **Uneasy Cohesion** — –1 Ld first battle only. |
-| 6 | **Conditional Loyalty** — No additional effect. |
-| 7 | **Accepted into the Line** — No additional effect. |
-| 8 | **Earned Respect** — +1 XP immediately. |
-| 9 | **Trusted Brother** — Warband may re-roll one failed Rout test per campaign while this model is operational. |
-| 10 | **Shared Oath** — Recruit and one Hero both gain +1 XP. |
+| 5 | **His Own Counsel** — If the warband Routs or withdraws, this model does not leave. Roll 1D3 — remains and acts normally for that many turns. Counts as surviving for post-battle purposes. |
+| 6 | **Conditional Loyalty** — May not voluntarily charge. |
+| 7 | **Accepted into the Line** — Once per battle, one friendly model within 6" may use this model's Initiative for a climbing or jumping test. |
+| 8 | **Earned Respect** — Once per battle, a friendly model within 3" may intercept a hit allocated to this model. |
+| 9 | **Trusted Brother** — While operational, the warband may re-roll one failed Rout test per battle. |
+| 10 | **Shared Oath** — Nominate one Hero at recruitment. While both operational, that Hero may re-roll one failed To Hit per turn in any turn this model is also engaged in combat. |
 | 11 | **Battle-Bound** — While within 12" of the model making a Rout Test, that model gains +1 Ld for that test. |
 | 12 | **Oath-Sworn to the Shattered** — +1 Leadership permanently. The warband may re-roll its first failed Rout test each battle while this model is operational. |
 
