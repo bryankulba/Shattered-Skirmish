@@ -115,6 +115,19 @@ May be declared if the charger would reach base contact with more than 2" of mov
 
 ---
 
+## Shields
+
+When a model with a shield suffers an unsaved wound, apply a modifier to the Injury roll:
+
+| Shield | Modifier |
+|---|---|
+| Combat Shield | –1 to Injury roll |
+| Boarding Shield | –2 to Injury roll |
+
+If the modified result is 0 or lower, the model suffers no effect. A natural 6 is always Out of Action regardless of modifiers.
+
+---
+
 ## Injury
 
 Roll **1D6** per unsaved wound:

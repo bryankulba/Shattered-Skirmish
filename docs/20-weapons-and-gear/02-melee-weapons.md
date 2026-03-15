@@ -57,6 +57,21 @@ Parry does not stack against a single opponent.
 
 ---
 
+## 3. Shields
+
+Both the Combat Shield and the Boarding Shield provide protection against injury.
+
+When a model equipped with a shield suffers an unsaved wound, apply the following modifier to the Injury roll:
+
+- **Combat Shield:** –1 to the Injury roll.
+- **Boarding Shield:** –2 to the Injury roll.
+
+If the modified result is 0 or lower, the model suffers no effect from the wound — the shield absorbed the blow.
+
+A natural roll of 6 on the Injury roll always results in Out of Action, regardless of any shield modifier.
+
+---
+
 ## 3. Multiple Wounds
 
 If a melee weapon causes multiple wounds:
