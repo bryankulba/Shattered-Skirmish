@@ -99,9 +99,17 @@ A battle ends when:
 
 - A warband fails a Rout Test.
 - A warband voluntarily withdraws.
-- A warband is reduced to zero Operational models.
+- A warband is reduced to zero Operational models (see below).
 - A mission objective declares the battle over.
 
 Post-battle procedures are resolved in the Campaign Rules.
+
+---
+
+## Model States
+
+A model is **Operational** if it is not Stunned, Knocked Down, or Out of Action.
+
+Only Operational models count toward Rout thresholds, leader range bonuses, and any rule that requires an active model. Stunned and Knocked Down models are still on the battlefield but are not considered Operational until they recover.
 
 ---

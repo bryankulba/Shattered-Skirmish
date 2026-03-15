@@ -57,13 +57,13 @@ If a weapon causes multiple wounds:
 
 Armour may become degraded through campaign injuries.
 
-For example:
+**Armour Compromised** imposes –1 to the model’s Armour Save until repaired (2 Salvage).
 
-- Armour Compromised: –1 to Armour Save until repaired.
+Armour Compromised does not stack. If a model that already has Armour Compromised receives the result again, it has no additional effect — the armour is already degraded. The repair cost remains 2 Salvage regardless of how many times the result was rolled.
 
 Repair procedures are defined in:
 
-`docs/30-campaign/`
+`docs/40-campaign/04-salvage-and-requisition.md`
 
 Armour degradation never modifies a model’s base profile permanently unless explicitly stated.
 

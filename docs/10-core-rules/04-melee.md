@@ -118,11 +118,60 @@ Other effects of critical hits follow Mordheim conventions unless explicitly ove
 
 When a model suffers an unsaved wound, roll **1D6**:
 
-- **1–2:** Knocked Down  
-- **3–4:** Stunned  
-- **5–6:** Out of Action  
+- **1–2:** Knocked Down
+- **3–4:** Stunned
+- **5–6:** Out of Action
 
 All lasting injury effects are resolved after the battle in the Campaign Rules.
+
+---
+
+## 5a. Knocked Down
+
+A Knocked Down model has been floored but remains conscious.
+
+**Restrictions:**
+
+- May not shoot, run, or charge.
+- May not Parry.
+
+**In Close Combat:**
+
+- All attacks against a Knocked Down model hit automatically — no To Hit roll is made.
+- If a Knocked Down model suffers a wound and fails its Armour Save, it is immediately taken Out of Action.
+
+**Near Edges:**
+
+- If a Knocked Down model is within 1" of a ledge or elevated drop, it must immediately pass an Initiative test or fall.
+
+**Recovery:**
+
+- A Knocked Down model may stand up during its Movement Phase. Standing up uses the model's full Movement allowance for that activation.
+- After standing, the model may act normally for the remainder of its activation, but may not Run or Charge that turn.
+- A model that stands up this turn strikes last in close combat, regardless of Initiative.
+
+---
+
+## 5b. Stunned
+
+A Stunned model is fully incapacitated.
+
+**Restrictions:**
+
+- May not move, shoot, run, charge, or fight.
+
+**In Close Combat:**
+
+- If an enemy model is in base contact with a Stunned model at the start of the Close Combat Phase, the Stunned model is automatically taken Out of Action — no To Hit or To Wound roll is required.
+
+**Near Edges:**
+
+- If a Stunned model is within 1" of a ledge or elevated drop, it must immediately pass an Initiative test or fall.
+
+**Recovery:**
+
+- At the start of the Recovery Phase, a Stunned model becomes Knocked Down.
+- It may then stand up during its Movement Phase as described above.
 
 ---
 

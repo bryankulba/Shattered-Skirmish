@@ -99,7 +99,7 @@ At the start of the battle, roll **1D3 per ranged weapon** to determine ammuniti
 
 The result applies for the duration of that battle only.
 
-| D6 | Result |
+| D3 | Result |
 |----|--------|
 | 1 | One shot during the battle. |
 | 2 | Two shots during the battle. |

@@ -44,7 +44,19 @@ Running represents committed forward movement at speed.
 
 ---
 
-## 3. Engaged Models
+## 3. Standing Up
+
+A Knocked Down model must spend its Movement Phase standing up.
+
+- Standing up uses the model's full Movement allowance.
+- After standing, the model may act normally for the remainder of its activation, but may not Run or Charge that turn.
+- A model that stands up this turn strikes last in close combat, regardless of Initiative.
+
+A Stunned model first becomes Knocked Down at the start of the Recovery Phase, then may stand up during its Movement Phase.
+
+---
+
+## 4. Engaged Models
 
 A model is **Engaged** when it is in base contact with an enemy model.
 
@@ -60,7 +72,7 @@ Leaving engagement is resolved under the Melee rules.
 
 ---
 
-## 4. Movement Restrictions
+## 5. Movement Restrictions
 
 Movement must follow these constraints:
 
@@ -73,7 +85,7 @@ If a model cannot legally reach its declared position, the movement ends at the 
 
 ---
 
-## 5. Measuring Movement
+## 6. Measuring Movement
 
 Movement is measured from the edge of a model’s base to its new position.
 

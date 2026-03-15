@@ -64,3 +64,15 @@ Roll 2D6 for each Henchman taken Out of Action.
 All injury results must be recorded immediately.
 
 ---
+
+## No Weaponry
+
+A model with the **No Weaponry** condition has lost or been stripped of all usable weapons.
+
+- The model may not shoot.
+- In melee, the model fights bare-handed: use its base Strength, no modifiers, no special rules, AP –.
+- The condition is cleared by spending 1 Salvage during Step 5 of the Post-Battle Sequence. The model is re-equipped with its standard loadout.
+
+No Weaponry applies to any model that receives it — whether a returning henchman or a new recruit.
+
+---

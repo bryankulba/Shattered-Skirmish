@@ -76,7 +76,7 @@ Permitted uses:
 
 - **Repair Armour Compromised** — 2 Salvage
 - **Repair Damaged Weapon** — 1 Salvage
-- **Re-equip Weaponless Recruit** — 1 Salvage
+- **Re-equip Weaponless Model** — 1 Salvage
 - **Stabilise Injury** — 1 Salvage  
   - Re-roll one non-permanent Injury result  
   - Must accept the second result

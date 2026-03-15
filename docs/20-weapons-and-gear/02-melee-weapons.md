@@ -74,7 +74,7 @@ A natural roll of 6 on the Injury roll always results in Out of Action, regardle
 
 ---
 
-## 3. Multiple Wounds
+## 4. Multiple Wounds
 
 If a melee weapon causes multiple wounds:
 
@@ -85,7 +85,7 @@ This modifier is applied after armour saves are resolved.
 
 ---
 
-## 4. Critical Hits
+## 5. Critical Hits
 
 Critical hits in melee:
 
@@ -97,7 +97,7 @@ Critical resolution follows the procedure defined in:
 
 ---
 
-## 5. Engaged Combat
+## 6. Engaged Combat
 
 All melee combat is resolved at the model level.
 
@@ -111,7 +111,7 @@ Charging, initiative order, and combat sequencing are defined in:
 
 ---
 
-## 6. Exclusions
+## 7. Exclusions
 
 The following Age of Darkness systems do not apply:
 

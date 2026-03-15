@@ -24,7 +24,7 @@ Roll Exploration dice as follows:
 
 Models taken Out of Action do not generate Exploration dice.
 
-If more than three dice are rolled, retain only the three highest dice for all purposes.
+If more than three dice are rolled, retain the three highest. If fewer than three dice are rolled, retain all of them.
 
 ---
 
@@ -32,7 +32,7 @@ If more than three dice are rolled, retain only the three highest dice for all p
 
 After rolling:
 
-1. Retain up to three highest dice.
+1. Retain the three highest dice (or all dice if fewer than three were rolled).
 2. Check the retained dice for duplicates.
 3. If any duplicates are present, resolve the Duplicate Table.
 4. If all retained dice are unique, resolve the Total Table.

@@ -59,6 +59,7 @@ Each model may only gain each characteristic increase once ever.
 | 9 | **Brutal Charge** — +1 Strength in the first round of a charge. |
 | 10 | **Heart of the Legion** — If this model did not move in its activation this round, it gains +1 FP when firing. |
 | 11 | **Precision Fire** — This model may target any visible enemy when shooting. It is not required to target the closest visible enemy. This overrides the standard targeting rule. |
+| 12 | **Characteristic Increase** — Roll on the Characteristic Table (1D6). |
 | 13 | **Battlefield Calculus** — Once per battle, after both sides have rolled for activation priority, you may re-roll your result. |
 | 14 | **Fearless Aspect** — Enemies in base contact with this model must re-roll their first successful To Hit roll each combat round. |
 | 15 | **Executioner** — If this model takes an enemy Out of Action in melee, gain +1 XP (maximum once per battle). |
