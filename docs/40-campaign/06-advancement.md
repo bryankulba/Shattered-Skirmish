@@ -98,3 +98,35 @@ Advancement may not:
 All results are applied immediately and recorded on the roster.
 
 ---
+
+# Promotion
+
+A Henchman who has proven themselves through sustained battlefield performance may be promoted to Veteran Marine.
+
+Promotion is resolved during Step 8 of the Post-Battle Sequence, after XP is awarded.
+
+## Eligibility
+
+A Henchman may be promoted if:
+
+- They have accumulated 8 or more XP.
+- A Veteran Marine slot is open in the warband.
+- The warband spends 5 RP.
+
+## Procedure
+
+1. Pay 5 RP.
+2. Remove the model from its Henchman slot and record it in a Veteran Marine slot.
+3. The model retains all XP, advancements, injuries, and equipment.
+4. The model now counts as a Hero for all purposes.
+5. From the next Post-Battle Sequence onward, the model may purchase upgrades from the Veteran Marine wargear list.
+
+The model does not gain new wargear at the point of promotion. They earned the rank, not a resupply.
+
+## Restrictions
+
+- A warband may never exceed 2 Veteran Marines through any combination of starting roster and promotion.
+- Promotion may not be used to bypass composition limits.
+- If no Veteran Marine slot is open, promotion is not possible regardless of XP accumulated.
+
+---

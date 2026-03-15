@@ -30,3 +30,29 @@ A Shredding hit adds +1 to the Injury roll if the target is taken Out of Action.
 The target may still take Armour Saves normally before any Injury roll is made.
 
 ---
+
+## Rending(X)
+
+Rending represents a weapon's ability to find weak points, slipping past armour at the moment of a perfectly placed strike.
+
+When making a To Hit roll with a weapon that has Rending (X), if the unmodified result equals or exceeds X, any hit caused becomes a Rending Hit.
+
+A Rending Hit automatically wounds the target — no Wound roll is made. The wound is treated as if a 6 had been rolled for all purposes, including triggering any effects that occur on specific wound roll results.
+
+Armour saves are taken normally against a Rending Hit. The weapon's AP, Damage, and special rules all apply as normal.
+
+---
+
+## Duellist's Edge(X)
+
+Duellist's Edge represents the precision and speed of a skilled bladesman, able to deflect incoming strikes with practiced economy.
+
+A model with Duellist's Edge(X) may make X Parry attempts per combat round, regardless of weapon type or other equipment carried.
+
+A Parry forces the highest successful enemy hit to be re-rolled. The result of the re-roll stands.
+
+The value of X indicates the number of Parry attempts available per round. A model with Duellist's Edge(1) may Parry once per round.
+
+Duellist's Edge does not stack with Parry granted by other sources against the same opponent in the same round.
+
+---

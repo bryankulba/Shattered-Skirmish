@@ -37,11 +37,15 @@ If no open slot exists, the opportunity is lost.
 
 To recruit:
 
-- Select an eligible model type with an open slot.
+- Select an eligible Henchman type with an open slot.
 - Pay the full RP cost of that model as listed in Warband Creation.
 - Consume the Recruitment Opportunity.
 
 If sufficient RP is not available, the opportunity expires.
+
+Eligible Henchman types are: Tactical Marine, Despoiler Marine, Breacher Marine, Tactical Support Marine.
+
+Heroes may not be recruited through this process. They are fixed at warband creation and may only be replaced through promotion.
 
 ---
 
@@ -106,12 +110,12 @@ Apply the result immediately.
 | 2 | **Open Hostility** — The recruit begins with –1 Leadership permanently. The warband must re-roll its first successful Rout test each battle while this model is operational. |
 | 3 | **Distrusted** — The recruit must activate before any other friendly model each turn. |
 | 4 | **Tense Alliance** — The recruit may not secure Resource Caches. |
-| 5 | **Uneasy Cohesion** — –1 Leadership in the first battle only. |
-| 6 | **Conditional Loyalty** — No additional effect. |
-| 7 | **Accepted into the Line** — No additional effect. |
-| 8 | **Earned Respect** — Gain +1 XP immediately. |
-| 9 | **Trusted Brother** — While operational, the warband may re-roll one failed Rout test per campaign. |
-| 10 | **Shared Oath** — The recruit and one Hero both gain +1 XP. |
+| 5 | **His Own Counsel** — If the warband Routs or voluntarily withdraws, this model does not leave the board. Roll 1D3 — the model remains and acts normally for that many additional turns before the battle ends. The model counts as surviving for post-battle purposes. |
+| 6 | **Conditional Loyalty** — This model may not voluntarily charge. |
+| 7 | **Accepted into the Line** — Once per battle, one friendly model within 6" may use this model's Initiative for a climbing or jumping test. |
+| 8 | **Earned Respect** — Once per battle, a friendly model within 3" may intercept a hit allocated to this model. |
+| 9 | **Trusted Brother** — While this model is operational, the warband may re-roll one failed Rout test per battle. |
+| 10 | **Shared Oath** — Nominate one Hero at recruitment. While both are operational, that Hero may re-roll one failed To Hit roll per turn in any turn this model is also engaged in combat. |
 | 11 | **Battle-Bound** — While this model is within 12" of the model making a Rout Test, that model gains +1 Leadership for that test. |
 | 12 | **Oath-Sworn to the Shattered** — The recruit gains +1 Leadership permanently. The warband may re-roll its first failed Rout test each battle while this model is operational. |
 

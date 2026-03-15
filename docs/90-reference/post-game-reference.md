@@ -214,6 +214,18 @@ When a model reaches an advancement threshold, roll 3D6 on the Advancement Table
 | 16 | **Battlefield Predator** — +1 Attack in the first round of combat. |
 | 17 | **Iron Resolve** — Once per battle, ignore Stunned. Treat as Knocked Down instead. |
 
+### Promotion to Veteran Marine
+
+A Henchman may be promoted during Step 8 if:
+
+- They have accumulated **8 or more XP**.
+- A Veteran Marine slot is open.
+- The warband spends **5 RP**.
+
+The model retains all XP, advancements, injuries, and equipment. It counts as a Hero from this point forward. Veteran Marine wargear options become available from the next Post-Battle Sequence onward. A warband may never exceed 2 Veteran Marines.
+
+---
+
 ### Characteristic Table — roll 1D6
 
 | 1D6 | Result |
