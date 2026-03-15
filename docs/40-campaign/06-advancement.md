@@ -47,7 +47,7 @@ Each model may only gain each characteristic increase once ever.
 
 ---
 
-# Advancement Table (3D6)
+### Advancement Table (3D6)
 
 | 3D6 | Result |
 |------|--------|
@@ -67,7 +67,7 @@ Each model may only gain each characteristic increase once ever.
 
 ---
 
-# Characteristic Table (1D6)
+### Characteristic Table (1D6)
 
 Roll 1D6 on a result of 3, 12, or 18 on the Advancement Roll.
 
@@ -86,7 +86,7 @@ If a rolled characteristic has already been increased for this model, re-roll.
 
 ---
 
-## Restrictions
+### Restrictions
 
 Advancement may not:
 
@@ -99,13 +99,13 @@ All results are applied immediately and recorded on the roster.
 
 ---
 
-# Promotion
+## Promotion
 
 A Henchman who has proven themselves through sustained battlefield performance may be promoted to Veteran Marine.
 
 Promotion is resolved during Step 8 of the Post-Battle Sequence, after XP is awarded.
 
-## Eligibility
+### Eligibility
 
 A Henchman may be promoted if:
 
@@ -113,7 +113,7 @@ A Henchman may be promoted if:
 - A Veteran Marine slot is open in the warband.
 - The warband spends 5 RP.
 
-## Procedure
+### Procedure
 
 1. Pay 5 RP.
 2. Remove the model from its Henchman slot and record it in a Veteran Marine slot.
@@ -123,7 +123,7 @@ A Henchman may be promoted if:
 
 The model does not gain new wargear at the point of promotion. They earned the rank, not a resupply.
 
-## Restrictions
+### Restrictions
 
 - A warband may never exceed 2 Veteran Marines through any combination of starting roster and promotion.
 - Promotion may not be used to bypass composition limits.
