@@ -54,9 +54,9 @@ Jumping is resolved during the Movement Phase.
 If a model falls:
 
 - Measure the distance fallen.
-- The model suffers a hit following Mordheim falling rules.
-- Armour saves are taken as normal.
-- If the model survives, it is placed Prone (Knocked Down).
+- The model suffers one Strength 5 hit for each full inch fallen.
+- Each hit is resolved separately against the model's Toughness and armour save.
+- If the model survives, it is placed Knocked Down.
 
 Falling may occur as a result of:
 
@@ -64,6 +64,16 @@ Falling may occur as a result of:
 - Failed jumping.
 - Being forced off a ledge.
 - Any rule that causes displacement from elevation.
+
+---
+
+### Optional Rule: Scaled Impact
+
+Instead of the standard falling rules, the model suffers a single hit at a Strength equal to the number of inches fallen (rounding up), to a maximum of Strength 10.
+
+*Example: a model falling 4" suffers one S4 hit. A model falling 7" suffers one S7 hit.*
+
+This approach is faster to resolve and creates a more gradual danger curve at low heights.
 
 ---
 
