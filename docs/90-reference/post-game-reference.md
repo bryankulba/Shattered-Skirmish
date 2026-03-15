@@ -207,9 +207,9 @@ When a model reaches an advancement threshold, roll 3D6 on the Advancement Table
 | 8 | **Grim Determination** — May ignore being Knocked Down once per battle. |
 | 9 | **Brutal Charge** — +1 Strength in the first round of a charge. |
 | 10 | **Heart of the Legion** — If this model did not move this activation, +1 FP when firing. |
-| 11 | **Precision Fire** — Does not need to target the closest model when firing. |
+| 11 | **Precision Fire** — May target any visible enemy when shooting. Overrides the standard closest-target rule. |
 | 13 | **Battlefield Calculus** — Once per battle, after both sides roll for activation priority, may re-roll your result. |
-| 14 | **Fearless Aspect** — Causes Fear. |
+| 14 | **Fearless Aspect** — Enemies in base contact must re-roll their first successful To Hit roll each combat round. |
 | 15 | **Executioner** — If this model takes an enemy Out of Action in melee, gain +1 XP (max once per battle). |
 | 16 | **Battlefield Predator** — +1 Attack in the first round of combat. |
 | 17 | **Iron Resolve** — Once per battle, ignore Stunned. Treat as Knocked Down instead. |

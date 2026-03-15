@@ -56,3 +56,13 @@ The value of X indicates the number of Parry attempts available per round. A mod
 Duellist's Edge does not stack with Parry granted by other sources against the same opponent in the same round.
 
 ---
+
+## Damaged
+
+A weapon may become Damaged as a result of a campaign injury roll.
+
+A Damaged weapon gains the Unstable Supply condition for the duration of every battle until repaired. Any unmodified hit roll of 1 made with a Damaged weapon triggers a roll on the Weapon Misfire Table.
+
+A Damaged weapon may be repaired by spending 1 Salvage during Step 5: Repair & Refit of the Post-Battle Sequence.
+
+---

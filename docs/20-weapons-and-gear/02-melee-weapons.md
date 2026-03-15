@@ -55,6 +55,8 @@ Parry follows Mordheim conventions:
 
 Parry does not stack against a single opponent.
 
+If a model also has Duellist's Edge, the two sources do not stack against the same opponent in the same round. Use whichever is most advantageous.
+
 ---
 
 ## 3. Shields
