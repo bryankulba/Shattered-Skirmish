@@ -1,12 +1,12 @@
 ---
-title: What Is SHATTERED?
+title: What Is Shattered Legions Skirmish?
 section: Introduction
 status: Draft
 ---
 
-# What Is SHATTERED?
+# What Is Shattered Legions Skirmish?
 
-**SHATTERED** is a small-scale narrative skirmish game set during the Horus Heresy.
+**Shattered Legions Skirmish** is a small-scale narrative skirmish game set during the Horus Heresy.
 
 It focuses on isolated groups of Space Marines operating after catastrophic engagements — cut off from command structures, low on ammunition, and fighting without reinforcement.
 
@@ -18,7 +18,7 @@ It is a game about fractured units, hard commitments, irreversible consequences 
 
 ## Relationship to Horus Heresy: Age of Darkness
 
-SHATTERED is designed for players familiar with **Warhammer: Horus Heresy – Age of Darkness**.
+Shattered Legions Skirmish is designed for players familiar with **Warhammer: Horus Heresy – Age of Darkness**.
 
 It preserves:
 
@@ -34,7 +34,7 @@ Age of Darkness rulebooks remain useful references for:
 - Wargear  
 - Weapon characteristics  
 
-SHATTERED changes the structure of play — not the martial language of the setting.
+Shattered Legions Skirmish changes the structure of play — not the martial language of the setting.
 
 The goal is to create an easy transition for Horus Heresy players, while shifting the focus from army-scale engagements to small, independent warbands.
 
@@ -42,7 +42,7 @@ The goal is to create an easy transition for Horus Heresy players, while shiftin
 
 ## Design Lineage
 
-Structurally, SHATTERED is inspired by Mordheim.
+Structurally, Shattered Legions Skirmish is inspired by Mordheim.
 
 It adopts:
 
